@@ -4,6 +4,7 @@
 This repository contains a sample of the code corresponding to [this ICLR 2022 paper](https://openreview.net/forum?id=iMH1e5k7n3L), which has been accepted as a Spotlight paper. 
 
 _Authors:_ Alan Jeffares, Qinghai Guo, Pontus Stenetorp, Timoleon Moraitis
+
 _TL;DR:_ Fast inference through partly spiking LSTMs, outperforming SNNs, and applied in keyword spotting.
 
 ## Abstract
