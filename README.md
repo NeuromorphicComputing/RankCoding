@@ -12,14 +12,14 @@ In our RC for ANNs, we apply backpropagation through time using the standard rea
 ## Cite
 To cite this work please use the following reference:
 
-@inproceedings{
-jeffares2022spikeinspired,
-title={Spike-inspired rank coding for fast and accurate recurrent neural networks},
-author={Alan Jeffares and Qinghai Guo and Pontus Stenetorp and Timoleon Moraitis},
-booktitle={International Conference on Learning Representations},
-year={2022},
-url={https://openreview.net/forum?id=iMH1e5k7n3L}
-}
+    @inproceedings{
+    jeffares2022spikeinspired,
+    title={Spike-inspired rank coding for fast and accurate recurrent neural networks},
+    author={Alan Jeffares and Qinghai Guo and Pontus Stenetorp and Timoleon Moraitis},
+    booktitle={International Conference on Learning Representations},
+    year={2022},
+    url={https://openreview.net/forum?id=iMH1e5k7n3L}
+    }
 
 ## Demo
 To get started, see a demo of applying our method in Demo.ipynb.
