@@ -5,7 +5,7 @@ This repository contains a sample of the code corresponding to [this ICLR 2022 p
 
 _Authors:_ Alan Jeffares, Qinghai Guo, Pontus Stenetorp, Timoleon Moraitis
 
-_TL;DR:_ Fast inference through partly spiking LSTMs, outperforming SNNs, and applied in keyword spotting.
+_TL;DR:_ Fast inference through partly spiking LSTMs, outperforming other SNNs, and applied in keyword spotting.
 
 ## Abstract
 Biological spiking neural networks (SNNs) can temporally encode information in their outputs, e.g. in the rank order in which neurons fire, whereas artificial neural networks (ANNs) conventionally do not. As a result, models of SNNs for neuromorphic computing are regarded as potentially more rapid and efficient than ANNs when dealing with temporal input. On the other hand, ANNs are simpler to train, and usually achieve superior performance. Here we show that temporal coding such as rank coding (RC) inspired by SNNs can also be applied to conventional ANNs such as LSTMs, and leads to computational savings and speedups.
