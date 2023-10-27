@@ -1,4 +1,5 @@
 # Rank Coding
+_This open source project is not an official Huawei product. Huawei is not expected to provide support for this project._
 ## Spike-inspired Rank Coding for Fast and Accurate Recurrent Neural Networks
 
 This repository contains a sample of the code corresponding to [this ICLR 2022 paper](https://openreview.net/forum?id=iMH1e5k7n3L), which has been accepted as a Spotlight paper. 
